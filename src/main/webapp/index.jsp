@@ -2,7 +2,7 @@
  <head>
   <style>
     body {
-      background-color: #f2f2f2; /* You can use color names or hexadecimal color codes */
+      background-color: #daebdf; /* You can use color names or hexadecimal color codes */
     }
   </style>
 </head>
