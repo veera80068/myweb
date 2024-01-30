@@ -11,7 +11,7 @@
          <h2 style="color: BLUE; font-size: 40px;" align="center">  Wellcome To Dev Maverick Event</h2>
         <h2 style="color: red; font-size: 40px;" align="center">  KAKINADA</h2>
          <h2 style="color: black; font-size: 40px;" align="center">  Introducing you DevOPs with AWS</h2>
-         <h2 style="color: black; font-size: 40px;" align="center">  Veera</h2>
+         <h2 style="color: black; font-size: 40px;" align="center">  ------</h2>
          
 </body>
 </html>
