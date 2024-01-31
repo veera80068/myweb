@@ -62,7 +62,7 @@
 </div>
 
 <div class="container">
- <h2 style="text-align : center;"><b>ADITYA COLLEGE OF COMPUTER SCIENCE</b>  </h2>
+ <h2 style="text-align : center;"><b>ADITYA COLLEGE OF COMPUTER SCIENCE Kakinada</b>  </h2>
  
     <!-- Example row of columns -->
      <div class="row">
