@@ -50,7 +50,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h2>ADITYA COLLEGE OF COMPUTER SCIENCE </h2>
+        <h2>ADITYA COLLEGE OF COMPUTER SCIENCE Kakinada</h2>
         <p> Welcome To Dev Maverick Event</p>
          <p> </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
