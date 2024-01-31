@@ -54,8 +54,8 @@
 
     <div class="container">
        
-        <p> Welcome To Dev Maverick Event</p>
-         <p> </p>
+        <h6><p> Welcome To Dev Maverick Event</p></h6>
+        <p>This project is not just for college – it's actually something that's used a lot in the real world. It helps to make software better, faster, and more productive. So when we learn about this, we're learning things that are really useful in the industry.</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
          
     </div>
