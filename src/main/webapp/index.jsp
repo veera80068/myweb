@@ -57,7 +57,7 @@
         <p> Welcome To Dev Maverick Event</p>
          <p> </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
-        <img src="C:\Users\HP\Downloads/50925fb0-0e31-4fde-9db8-6a418541d611">
+        <img src=" https://ibb.co/xGRFB5C" style="display: block; margin-left=50px;">
     </div>
 </div>
 
